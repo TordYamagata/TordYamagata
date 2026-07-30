@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;JavaScript+•+Python+•+C%23;Sempre+aprendendo+novas+tecnologias.](https://miro.medium.com/1*adSFpFVqt-3S4OK5qDz2ew.gif)"/>
+<img src="https://miro.medium.com/1*adSFpFVqt-3S4OK5qDz2ew.gif"/>
 </p>
 
 ---

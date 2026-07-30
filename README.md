@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/1*adSFpFVqt-3S4OK5qDz2ew.gif" width="350"/>
+  <img src="https://blinkies.cafe/b/display/0206-nyancat.gif" width="350"/>
 </p>
 
 ---

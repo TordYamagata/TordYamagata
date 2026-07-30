@@ -6,6 +6,9 @@
 
 <p align="center">
   <img src="https://blinkies.cafe/b/display/0028-computer.gif" width="350"/>
+  <img src="https://blinkies.cafe/b/display/0092-computerconnect.gif" width="350"/>
+  <img src="https://blinkies.cafe/b/display/0221-cd.gif" width="350"/>
+  <img src="https://blinkies.cafe/b/display/0092-computerconnect.gif" width="350"/>
 </p>
 
 ---

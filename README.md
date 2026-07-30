@@ -51,20 +51,6 @@ Desenvolvedora em formação • Apaixonada por tecnologia • Sempre aprendendo
 
 </div>
 
----
-
-## 🌟 Objetivos para 2026
-
-✅ Aprender novas tecnologias
-
-🚀 Criar projetos completos
-
-📚 Contribuir com projetos Open Source
-
-💼 Conseguir experiência profissional
-
----
-
 ## 🌐 Redes
 
 <div align="center">

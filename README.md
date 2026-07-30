@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou a Laura</h1>
+<h1 align="center">Olá! Eu sou a Laura!</h1>
 
 <p align="center">
 Desenvolvedora em formação • Apaixonada por tecnologia • Sempre aprendendo algo novo

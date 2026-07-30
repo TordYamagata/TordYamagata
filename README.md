@@ -1,7 +1,97 @@
-<div> 
-  <a href="https://github.com/TordYamagata"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TordYamagata&show_icons=true&theme=onedark"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TordYamagata&layout-compact&langs_count=16&theme=onedark"/> 
-  </div> 
-    <div style="display: center"> <br> <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-      <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Laura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </div> ## <div> <a href="https://www.instagram.com/tord_yamagata?igsh=ZzJ1ZGxveHM2c2p4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/laura-coelho-535601384?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<h1 align="center">Olá! 👋 Eu sou a Laura</h1>
+
+<p align="center">
+💜 Desenvolvedora em formação • Apaixonada por tecnologia • Sempre aprendendo algo novo
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+GitHub!;JavaScript+•+Python+•+C%23;Sempre+aprendendo+novas+tecnologias."/>
+</p>
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudante de Desenvolvimento de Software
+- 🌱 Atualmente estudando **JavaScript**, **Python** e **C#**
+- 💡 Gosto de criar projetos para aprender na prática
+- 🎯 Objetivo: me tornar uma Desenvolvedora Full Stack
+- ☕ Café, música e programação
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TordYamagata&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TordYamagata&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,vscode,git,github"/>
+
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TordYamagata&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 Objetivos para 2026
+
+✅ Aprender novas tecnologias
+
+🚀 Criar projetos completos
+
+📚 Contribuir com projetos Open Source
+
+💼 Conseguir experiência profissional
+
+---
+
+## 🌐 Redes
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/laura-coelho-535601384">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/tord_yamagata">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=TordYamagata&style=for-the-badge&color=7F3FBF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Obrigada pela visita!
+
+"Cada linha de código é um passo para um futuro melhor."
+
+</div>

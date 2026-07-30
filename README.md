@@ -91,8 +91,8 @@ Desenvolvedora em formação • Apaixonada por tecnologia • Sempre aprendendo
 
 <div align="center">
 
-### 💜 Obrigada pela visita!
+### Obrigada pela visita!
 
-"Cada linha de código é um passo para um futuro melhor."
+"Neo Tokyo is about to E.X.P.L.O.D.E."
 
 </div>

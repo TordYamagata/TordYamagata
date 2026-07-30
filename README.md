@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://miro.medium.com/1*adSFpFVqt-3S4OK5qDz2ew.gif"/>
+  <img src="https://miro.medium.com/1*adSFpFVqt-3S4OK5qDz2ew.gif" width="350"/>
 </p>
 
 ---

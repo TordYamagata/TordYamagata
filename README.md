@@ -14,10 +14,9 @@ Desenvolvedora em formação • Apaixonada por tecnologia • Sempre aprendendo
 ## 👩‍💻 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Software
-- 🌱 Atualmente estudando **JavaScript**, **Python** e **C#**
+- 🌱 Atualmente estudando **Banco de dados**, **Python** e **PHP**
 - 💡 Gosto de criar projetos para aprender na prática
 - 🎯 Objetivo: me tornar uma Desenvolvedora Full Stack
-- ☕ Café, música e programação
 
 ---
 

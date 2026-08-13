@@ -80,7 +80,7 @@
 </a>
 
 <a href="https://www.instagram.com/tord_yamagata">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://blinkies.cafe/b/display/0199-instagramlogo.gif" width="200">
 </a>
 
 </div>

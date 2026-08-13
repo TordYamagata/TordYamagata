@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/laura-coelho-535601384">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://tordyamagata.lurk.me/">
+  <img src="https://lurk.me/og.png?v=1">
 </a>
 
 <a href="https://www.instagram.com/tord_yamagata">

@@ -1,7 +1,7 @@
 <h1 align="center">☆ Olá! Eu sou a Laura! ☆</h1>
 
 <p align="center">
-  <strong>Desenvolvedora em formação • Full Stack em construção • Apaixonada por tecnologia</strong>
+  <strong>Desenvolvedora em formação • Apaixonada por tecnologia</strong>
 </p>
 
 <p align="center">

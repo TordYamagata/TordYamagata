@@ -76,7 +76,7 @@
 <div align="center">
 
 <a href="https://tordyamagata.lurk.me/" width="280">
-    <img src="https://blinkies.cafe/b/display/0068-mainframe.gif" width="200"/>
+    <img src="https://blinkies.cafe/b/display/0221-cd.gif" width="200"/>
 </a>
 
 <a href="https://www.instagram.com/tord_yamagata">

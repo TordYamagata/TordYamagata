@@ -21,12 +21,6 @@
 
 ☆ Atualmente estudando **Python, PHP e Banco de Dados**
 
-☆ Gosto de transformar ideias em projetos e aprender colocando a mão no código
-
-☆ Tenho interesse em **desenvolvimento Web, Back-end e Full Stack**
-
-☆ Meu objetivo é me tornar uma **Desenvolvedora Full Stack**
-
 ☆ Sempre buscando aprender uma tecnologia nova e evoluir meus projetos
 
 ---
@@ -35,15 +29,15 @@
 
 <div align="center">
 
-### ☆ Front-end
+### ☆ Front-end ☆
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### ☆ Back-end & Banco de Dados
+### ☆ Back-end & Banco de Dados ☆
 
 <img src="https://skillicons.dev/icons?i=python,php,cs,mysql" />
 
-### ☆ Ferramentas
+### ☆ Ferramentas ☆
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 

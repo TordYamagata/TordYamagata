@@ -98,4 +98,6 @@
 <i>"Neo Tokyo is about to E.X.P.L.O.D.E."</i>
 
 </div>
+<div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycnVzMmpqOXJpbHEzbjIzY2w4d3Fra3lxZ2k5bWoyM3J6cnJtaDJhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12CSpwCtoy1Vfy/giphy.gif" width="200"/>
+</div>

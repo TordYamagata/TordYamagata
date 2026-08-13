@@ -50,7 +50,7 @@
 <div align="center">
 
 <a href="https://github.com/TordYamagata">
-  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"/>
+  <img src="https://west-fast.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkeyboard-typing.abbc2767.gif&w=2048&q=75"/>
 </a>
 
 </div>

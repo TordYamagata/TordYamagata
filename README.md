@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<a href="https://tordyamagata.lurk.me/">
+<a href="https://tordyamagata.lurk.me/" width="280">
   <img src="https://lurk.me/og.png?v=1">
 </a>
 
